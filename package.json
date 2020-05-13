@@ -1,0 +1,54 @@
+{
+  "_from": "react-native-apk@^0.2.7",
+  "_id": "react-native-apk@0.2.7",
+  "_inBundle": false,
+  "_integrity": "sha512-mp/gyWn5nm2zS6LiKTeJAfwpIK8w3JK0GL0vQ23Fs6gjtgZvQ67WMYWmU8UhSH/kBO30Z01A80Th/tig7ZAlgQ==",
+  "_location": "/react-native-apk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-apk@^0.2.7",
+    "name": "react-native-apk",
+    "escapedName": "react-native-apk",
+    "rawSpec": "^0.2.7",
+    "saveSpec": null,
+    "fetchSpec": "^0.2.7"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-apk/-/react-native-apk-0.2.7.tgz",
+  "_shasum": "860ebde201771ef7d13d12cdd8d8b1ff6854102f",
+  "_spec": "react-native-apk@^0.2.7",
+  "_where": "/Users/sanderkerstens/Downloads/Apps_All_Generic/Mware_Master_Native_Mware",
+  "author": {
+    "name": "SkyzohKey",
+    "email": "skyzohkey@protonmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Skyzohkey/react-native-apk/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "API to install, uninstall, get version, check presence of a package, or fetch installed packages on Android.",
+  "homepage": "https://github.com/Skyzohkey/react-native-apk#readme",
+  "keywords": [
+    "react-native",
+    "installs",
+    "uninstalls",
+    "version",
+    "apps",
+    "packages",
+    "system"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-apk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skyzohkey/react-native-apk.git"
+  },
+  "version": "0.2.7"
+}
